@@ -1,0 +1,6 @@
+{
+  "name": "Project Order Management",
+  "description": "A web application for managing project orders, including data import via CSV/Excel, tabular display with pagination, and data export to Excel.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
